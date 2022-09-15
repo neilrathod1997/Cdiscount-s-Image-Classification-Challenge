@@ -8,3 +8,5 @@ This code was used to train Xception model for Kaggle competition Cdiscount’s 
 * A lot of difficult categories (different styles of books and CDs)
 
 * Variable number of images (1-4) for each product
+
+Training using keras generator here<a href="url">link text</a>
