@@ -1,4 +1,5 @@
 # Cdiscount-s-Image-Classification-Challenge
+## Description
 This code was used to train Xception model for Kaggle competition Cdiscount’s Image Classification Challenge. In principle, the competition was about standard image classification, however following points made it difficult:
 
 * Large number of categories (5720)
