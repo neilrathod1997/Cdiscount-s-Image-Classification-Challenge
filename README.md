@@ -9,4 +9,4 @@ This code was used to train Xception model for Kaggle competition Cdiscount’s 
 
 * Variable number of images (1-4) for each product
 
-Training using keras generator <a href="https://github.com/neilrathod1997/Cdiscount-s-Image-Classification-Challenge/blob/main/keras-generator-for-reading-directly-from-bson.ipynb%20-%20Colaboratory.pdf">here</a>
+Training using keras generator <a href="https://github.com/neilrathod1997/Cdiscount-s-Image-Classification-Challenge/blob/main/keras_generator_for_reading_directly_from_bson%20(1).ipynb">here</a>
